@@ -1,3 +1,0 @@
-# Semi-active-suspension-system
-Here we use servo motor inside suspension system to control the flow of suspension fluid, which then determines the stifness of the suspension sytem. 
-The driver can change the stiffness of the damper according to the type of terrain using blynk mobile application.
